@@ -1,0 +1,1 @@
+A machine learning–based web application built using Python and Streamlit to detect fraudulent financial transactions. The app uses a trained ML pipeline to analyze transaction details such as transaction type, amount, and sender/receiver balances, and predicts whether a transaction is fraudulent or legitimate. Designed for simplicity, real-time prediction, and easy deployment.
